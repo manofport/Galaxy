@@ -6,10 +6,25 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		14EE30E718980CDE00AC721C /* processGaussianImages.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = processGaussianImages.m; sourceTree = "<group>"; };
+		14EE30E818980CDE00AC721C /* runNN.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = runNN.m; sourceTree = "<group>"; };
+		14EE30E918980CDE00AC721C /* runNNProbabilities.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = runNNProbabilities.m; sourceTree = "<group>"; };
+		14EE30EA18980CDE00AC721C /* runPCA.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = runPCA.m; sourceTree = "<group>"; };
+		14EE30EB18980CDE00AC721C /* runPredictTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = runPredictTest.m; sourceTree = "<group>"; };
+		14EE30EC18980CDE00AC721C /* gzoogauss.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = gzoogauss.sh; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		14EE30E018980C7A00AC721C = {
 			isa = PBXGroup;
 			children = (
+				14EE30E718980CDE00AC721C /* processGaussianImages.m */,
+				14EE30E818980CDE00AC721C /* runNN.m */,
+				14EE30E918980CDE00AC721C /* runNNProbabilities.m */,
+				14EE30EA18980CDE00AC721C /* runPCA.m */,
+				14EE30EB18980CDE00AC721C /* runPredictTest.m */,
+				14EE30EC18980CDE00AC721C /* gzoogauss.sh */,
 			);
 			sourceTree = "<group>";
 		};
